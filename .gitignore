@@ -5,6 +5,9 @@ myenv/
 myenvLAB2/
 .env/
 
+myenvLAB3/
+.env/
+
 # Ignore Jupyter notebook checkpoints
 __pycache__/
 .ipynb_checkpoints/
